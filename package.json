@@ -1,17 +1,18 @@
 {
   "name": "OneeChan",
-  "version": "5.6.2",
+  "version": "5.6.3",
   "description": "Customizable rice and themes for 4chan X.",
   "meta": {
     "name": "OneeChan",
-    "repo": "https://github.com/nebukazar/OneeChan/",
-    "page": "https://github.com/nebukazar/OneeChan/",
-    "downloads": "https://nebukazar.github.io/OneeChan/builds/",
+    "repo": "https://github.com/dnsev/OneeChan/",
+    "page": "https://github.com/dnsev/OneeChan/",
+    "downloads": "https://github.com/dnsev/OneeChan/raw/stable/builds/",
     "appid": "cnbankbnhjiakpmcjbecinckfbceeacf",
     "buildsPath": "builds/",
     "mainBranch": "master",
     "matches": [
-      "*://boards.4chan.org/*"
+      "*://boards.4chan.org/*",
+      "*://boards.4channel.org/*"
     ],
     "files": {
       "metajs": "OneeChan.meta.js",
@@ -31,17 +32,22 @@
     "grunt-contrib-compress": "~0.12.0",
     "grunt-contrib-cssmin": "~0.6.0",
     "grunt-contrib-copy": "~0.7.0",
-    "grunt-shell": "~1.1.1"
+    "grunt-shell": "~1.1.1",
+    "grunt-cli": "~1.3.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nebukazar/OneeChan.git"
+    "url": "https://github.com/dnsev/OneeChan.git"
   },
-  "author": "seaweedchan",
+  "scripts": {
+    "build": "grunt"
+  },
+  "author": "dnsev",
   "contributors": [
-    "Nebukazar<nebukazar.github.com>"
+    "Nebukazar<nebukazar.github.com>",
+    "dnsev"
   ],
-  "namespace": "seaweedchan.github.com",
+  "namespace": "dnsev.github.com",
   "license": "GPL-3.0",
   "readmeFilename": "README.md",
   "engines": {

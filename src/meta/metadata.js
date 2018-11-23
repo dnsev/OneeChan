@@ -5,7 +5,7 @@
 // @description  <%= description %>
 // @minGMVer     <%= meta.min.greasemonkey %>
 // @minFFVer     <%= meta.min.firefox %>
-// @license      <%= license %>; <%= meta.repo %>blob/<%= meta.mainBranch %>/LICENSE 
+// @license      <%= license %>; <%= meta.repo %>blob/<%= meta.mainBranch %>/License 
 <%=
 meta.matches.map(function(match) {
 return '// @match        ' + match;
