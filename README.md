@@ -1,6 +1,3 @@
-DON'T NEED MASCOTS? TRY [STYLECHAN](https://github.com/nebukazar/StyleChan) :camel:
-==
-
 OneeChan
 ====
 
@@ -9,7 +6,7 @@ OneeChan is a userscript that functions on top of 4chan X and allows you to cust
 Originally developed by [seaweedchan](https://github.com/seaweedchan), this fork adds compatibility with various 4chan X versions and more custom options.
 
 
-##[Click to Install](https://nebukazar.github.io/OneeChan/builds/OneeChan.user.js)
+##[Click to Install](https://github.com/dnsev/OneeChan/raw/stable/builds/OneeChan.user.js)
 
 
 #### Install instructions
@@ -41,18 +38,18 @@ ccd0's 4chan X is the recommended 4chan X version and the one OneeChan is primar
 
 - Check if it's not a 4chan X issue first, OneeChan mostly deals with stylesheets not site functionality
 
-- Something doesn't work let me know in the [Issues](https://github.com/Nebukazar/OneeChan/issues) page
+- Something doesn't work let me know in the [Issues](https://github.com/dnsev/OneeChan/issues) page
 
-- Please refer to the [Wiki](https://github.com/Nebukazar/OneeChan/wiki) for instructions
+- Please refer to the [Wiki](https://github.com/dnsev/OneeChan/wiki) for instructions
 
 
 #### Development & Contribution
 
-- [Changelog](https://github.com/Nebukazar/OneeChan/blob/master/CHANGELOG.md)
-- [Source Code](https://github.com/Nebukazar/OneeChan)
-- [Reporting Bugs and Contributing](https://github.com/Nebukazar/OneeChan/blob/master/CONTRIBUTING.md)
+- [Changelog](https://github.com/dnsev/OneeChan/blob/master/CHANGELOG.md)
+- [Source Code](https://github.com/dnsev/OneeChan)
+- [Reporting Bugs and Contributing](https://github.com/dnsev/OneeChan/blob/master/CONTRIBUTING.md)
 
 #### Screenshots
 
-[![/images/thumb00.jpg](/images/thumb00.jpg)](https://raw.githubusercontent.com/nebukazar/OneeChan/master/images/ex00.png) [![/images/thumb01.jpg](/images/thumb01.jpg)](https://raw.githubusercontent.com/nebukazar/OneeChan/master/images/ex01.png) [![/images/thumb02.jpg](/images/thumb02.jpg)](https://raw.githubusercontent.com/nebukazar/OneeChan/master/images/ex03.png)
+[![/images/thumb00.jpg](/images/thumb00.jpg)](https://raw.githubusercontent.com/dnsev/OneeChan/master/images/ex00.png) [![/images/thumb01.jpg](/images/thumb01.jpg)](https://raw.githubusercontent.com/nebukazar/dnsev/master/images/ex01.png) [![/images/thumb02.jpg](/images/thumb02.jpg)](https://raw.githubusercontent.com/nebukazar/dnsev/master/images/ex03.png)
 
